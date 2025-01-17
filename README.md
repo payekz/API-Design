@@ -1,6 +1,5 @@
 Here's a structured README file for the RESTful API for managing a collection of books:
 
-```markdown
 # Book Collection RESTful API
 
 This API allows users to perform basic CRUD (Create, Read, Update, Delete) operations on a collection of books.
@@ -103,4 +102,3 @@ This API allows users to perform basic CRUD (Create, Read, Update, Delete) opera
 This simple API design provides endpoints for managing a collection of books, allowing users to create, read, update, and delete book records. Each endpoint is designed to handle specific operations, ensuring a clear and organized structure.
 ```
 
-Let me know if there's anything you'd like to add or modify in this README! 📚
